@@ -13,11 +13,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
+links: ""
 url_code: 'https://github.com/QingquanBao/2DBiped'
 url_pdf: 'https://github.com/QingquanBao/2DBiped/blob/main/MEAM517_final_report.pdf'
 url_slides: ''

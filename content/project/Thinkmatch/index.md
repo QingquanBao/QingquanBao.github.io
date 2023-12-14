@@ -13,7 +13,7 @@ image:
   caption: Adversarial Attack on Vision Graph Matching
   focal_point: Smart
 
-links:
+links: ""
 url_code: 'https://github.com/Thinklab-SJTU/ThinkMatch/tree/paddle_version'
 url_pdf: ''
 url_slides: ''
