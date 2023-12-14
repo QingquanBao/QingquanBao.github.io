@@ -111,7 +111,7 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Qingquan Bao, currently a graduate in robotics at GRASP lab at University of Pennsylvania. My dream is to build a general-purpose agent which serve as our daily assitant both in physical and intelletual works. My research interests include robot learning, LLM in planning and RAG.
+Hi, I am Qingquan Bao, currently a graduate in robotics at General Robotics, Automation, Sensing & Perception (GRASP) Lab at University of Pennsylvania. My dream is to build a general-purpose agent which serve as our daily assitant both in physical and intelletual jobs. So my current research interests include robot learning, LLM in planning and RAG.
 
 I completed my undergrad cum laude in 2023 at Shanghai Jiao Tong University. During those wonderful years, I worked with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on topics of Vision Graph Matching, Trustworthy AI, and Neural Architecture Search. I was also fortunate to work with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) on Embodied AI.
 

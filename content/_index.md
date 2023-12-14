@@ -80,8 +80,8 @@ sections:
           company_url: ''
           company_logo: MIT_logo
           location: Cambridge, MA, US
-          date_start: '2023-01-31'
-          date_end: '2022-07-15'
+          date_start: '2022-07-15'
+          date_end: '2023-01-31'
           description: Led the research project "Embodied Depth Prediction"
         - title: Research Assitant
           company: Shanghai Jiao Tong University

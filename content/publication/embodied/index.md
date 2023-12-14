@@ -9,7 +9,7 @@ authors:
   - Yilun Du
   - Feng Chen
   - Leslie Pack Kaelbling
-  - Tomás Lozano\-Pérez
+  - Tomás Lozano-Pérez
   - Chuang Gan
   - Joshua B. Tenenbaum
 
