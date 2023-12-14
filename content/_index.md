@@ -86,7 +86,7 @@ sections:
         - title: Research Assitant
           company: Shanghai Jiao Tong University
           company_url: ''
-          company_logo: sjtu
+          company_logo: SJTU
           location: Shanghai, China
           date_start: '2020-12-01'
           date_end: '2023-06-01'
