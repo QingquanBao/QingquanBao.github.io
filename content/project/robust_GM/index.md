@@ -1,5 +1,5 @@
 ---
-title: Appearance and Structure Aware Robust Deep Visual Graph Matching: Attack, Defense and Beyond
+title: Appearance and Structure Aware Robust Deep Visual Graph Matching - Attack, Defense and Beyond
 summary: Is deep graph matching networks vulnerable?
 tags:
   - Trustworthy AI
@@ -14,7 +14,7 @@ image:
   caption: Adversarial Attack on Vision Graph Matching
   focal_point: Smart
 
-links:
+links: ""
 url_code: 'https://github.com/Thinklab-SJTU/robustMatch/tree/master'
 url_pdf: 'https://ieeexplore.ieee.org/document/9878530'
 url_slides: ''

@@ -1,5 +1,5 @@
 ---
-title: Modular Gait Optimization: From Unit Moves to Full Trajectory in Bipedal Systems
+title: Modular Gait Optimization - From Unit Moves to Full Trajectory in Bipedal Systems
 summary: Let's see how to train your baby Biped w/o learning!
 tags:
   - Robotics
