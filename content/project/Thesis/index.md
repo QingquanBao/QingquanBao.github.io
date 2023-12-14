@@ -1,6 +1,6 @@
 ---
 title: Visual Model Search and Optimization for Software and Hardware Co-design
-summary: Contribute to an open-source graph matching model library!
+summary: A hardware-agnostic, highly extensible, multi-objective Neural Architecture Search (NAS) Approach.
 tags:
   - Deep Learning
   - Computer vision
@@ -15,9 +15,8 @@ image:
   caption: Adversarial Attack on Vision Graph Matching
   focal_point: Smart
 
-links: ''
 url_code: ''
-url_pdf: 'static/uploads/Thesis-Qingquan.pdf'
+url_pdf: 'uploads/Thesis-Qingquan.pdf'
 url_slides: ''
 url_video: ''
 
@@ -26,7 +25,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: ''
 ---
 
 This paper presents a software-hardware co-design framework for efficient neural architecture search and optimization, aiming to address the challenge of traditional neural network architecture design that struggles to meet the demands of various devices and application scenarios. To overcome the limitations of conventional neural architecture search methods that neglect hardware platform constraints and prior knowledge, we propose an automated neural architecture search (NAS) approach that incorporates weight sharing techniques and NSGA-II genetic algorithm to quickly and accurately identify efficient neural architectures that are suitable for specific hardware.

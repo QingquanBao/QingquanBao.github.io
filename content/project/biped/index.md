@@ -10,10 +10,9 @@ date: '2023-12-09T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
-links: ''
 url_code: 'https://github.com/QingquanBao/2DBiped'
 url_pdf: 'https://github.com/QingquanBao/2DBiped/blob/main/MEAM517_final_report.pdf'
 url_slides: ''
@@ -24,7 +23,7 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: ''
 ---
 
 Our project is aimed at trajectory optimization in bipedal robotics, specifically in three fundamental gaits: hopping, walking, and running. The central challenge we address is the computational complexity often encountered in multi-step trajectory optimizations. Typically, these optimizations yield gaits that do not align with natural human movements, a gap that our work aims to bridge.

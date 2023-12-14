@@ -79,15 +79,15 @@ sections:
           company: 
           company_url: ''
           company_logo: MIT_logo
-          location: Cambridge, MA
+          location: Cambridge, MA, US
           date_start: '2023-01-31'
           date_end: '2022-07-15'
           description: Led the research project "Embodied Depth Prediction"
         - title: Research Assitant
           company: Shanghai Jiao Tong University
           company_url: ''
-          company_logo: org-gc
-          location: California
+          company_logo: sjtu
+          location: Shanghai, China
           date_start: '2020-12-01'
           date_end: '2023-06-01'
           description: |2-
@@ -218,7 +218,7 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: true
+        exclude_featured: false
     design:
       columns: '2'
       view: citation

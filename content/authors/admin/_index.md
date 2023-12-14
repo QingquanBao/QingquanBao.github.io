@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 包清泉
+title: Qingquan Bao
 
 # Name pronunciation (optional)
-name_pronunciation: Qingquan Bao
+name_pronunciation: /tɕʰɪŋ/ /tɕʰɥœn/  /bɑʊ/
 
 # Full name (for SEO)
 first_name: Qingquan
@@ -11,7 +11,7 @@ last_name: Bao
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🧋
 
 # Is this the primary user of the site?
 superuser: true
@@ -38,10 +38,10 @@ education:
   courses:
     - course: M.S. in Robotics
       institution: University of Pennsylvania
-      year: 2023-2025
+      year: 2025 (Expected)
     - course: B.E. in Artificial Intelligence
       institution: Shanghai Jiao Tong Univerisity
-      year: 2019-2023
+      year: 2023
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -70,8 +70,8 @@ skills:
       - name: Tennis
         description: ''
         percent: 70
-        icon: custom/tennis
-        icon_pack: fas
+        icon: tennis
+        icon_pack: custom
       - name: Photography
         description: ''
         percent: 60
@@ -80,8 +80,8 @@ skills:
       - name: Kendo
         description: ''
         percent: 20
-        icon: custom/sword
-        icon_pack: fas
+        icon: sword
+        icon_pack: custom
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -113,6 +113,6 @@ highlight_name: true
 
 Hi, I am Qingquan Bao, currently a graduate in robotics at GRASP lab at University of Pennsylvania. My dream is to build a general-purpose agent which serve as our daily assitant both in physical and intelletual works. My research interests include robot learning, LLM in planning and RAG.
 
-I completed my undergrad cum laude in 2023 at Shanghai Jiao Tong University. During those wonderful years, I worked with Professor Junchi Yan on topics of Vision Graph Matching and Adversarial Attack. I was also fortunate to work with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) on Embodied AI.
+I completed my undergrad cum laude in 2023 at Shanghai Jiao Tong University. During those wonderful years, I worked with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on topics of Vision Graph Matching, Trustworthy AI, and Neural Architecture Search. I was also fortunate to work with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) on Embodied AI.
 
 {style="text-align: justify;"}
