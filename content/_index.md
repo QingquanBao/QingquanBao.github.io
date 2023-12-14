@@ -253,7 +253,7 @@ sections:
       text: |-
         Feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: qqbao@seas.upenn.com
+      email: qqbao@seas.upenn.edu
       phone: 206-666-0635
       #appointment_url: 'https://calendly.com'
       #address:
