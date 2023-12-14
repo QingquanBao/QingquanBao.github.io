@@ -14,7 +14,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-links:
+links: ''
 url_code: 'https://github.com/QingquanBao/2DBiped'
 url_pdf: 'https://github.com/COMoER/HRDDAT/blob/master/paper.pdf'
 url_slides: ''

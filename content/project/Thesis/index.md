@@ -15,7 +15,7 @@ image:
   caption: Adversarial Attack on Vision Graph Matching
   focal_point: Smart
 
-links:
+links: ''
 url_code: ''
 url_pdf: 'static/uploads/Thesis-Qingquan.pdf'
 url_slides: ''
