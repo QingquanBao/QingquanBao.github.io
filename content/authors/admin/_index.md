@@ -32,6 +32,7 @@ interests:
   - Artificial General Intelligence
   - Robotics and Embodied AI
   - Humanoid Robots
+  - Mobile Manipulation
 
 # Education to show in About widget
 education:
@@ -111,8 +112,10 @@ social:
 highlight_name: true
 ---
 
-Hi, I am Qingquan Bao, currently a graduate in robotics at General Robotics, Automation, Sensing & Perception (GRASP) Lab at University of Pennsylvania. My dream is to build a general-purpose agent which serve as our daily assitant both in physical and intelletual jobs. So my current research interests include robot learning, LLM in planning and RAG.
+Hello! I'm Qingquan Bao, currently a graduate student specializing in robotics at the General Robotics, Automation, Sensing & Perception (GRASP) Lab, University of Pennsylvania. I'm on the lookout for internship opportunities in Machine Learning Engineering or Software Engineering. Please feel free to get in touch!
 
-I completed my undergrad cum laude in 2023 at Shanghai Jiao Tong University. During those wonderful years, I worked with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on topics of Vision Graph Matching, Trustworthy AI, and Neural Architecture Search. I was also fortunate to work with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) on Embodied AI.
+My aspiration is to develop a versatile agent capable of assisting with both physical and intellectual tasks in our daily lives. I firmly believe that embodied AGI is crucial for advancing humanity liberty and democracy. So my current research interests focous on robot learning (esp. in mobile manipulation task), LLM in planning and RAG. Professionally, I am keen on implementing intelligent systems in cyberspace or ACTUAL robotic applications.!
+
+Prior to joining Penn, I graduated cum laude (Zhiyuan Honor) in 2023 from Shanghai Jiao Tong University. During my enriching undergraduate years, I collaborated  with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on topics of Vision Graph Matching, Trustworthy AI, and Neural Architecture Search. I also had the privilege of working with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) in the field of Embodied AI.
 
 {style="text-align: justify;"}
