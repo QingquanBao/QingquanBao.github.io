@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'Qingquan Bao, master's student at GRASP Lab, University of Pennsylvania'
+    description: "Qingquan Bao, master's student at GRASP Lab, University of Pennsylvania"
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
