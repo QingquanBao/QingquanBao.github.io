@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: M.S. in Robotics 25'
+role: Software Engineer, ML Motion Planning @ Zoox
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Pennsylvania
-    url: https://www.grasp.upenn.edu/
+  - name: Zoox
+    url: https://zoox.com/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include AGI, and robotics.
@@ -37,11 +37,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: M.S. in Robotics
+    - course: M.S. in Robotics, GPA 4.0/4.0
       institution: University of Pennsylvania
-      year: 2025 (Expected)
-    - course: B.E. in Artificial Intelligence
-      institution: Shanghai Jiao Tong Univerisity
+      year: 2025
+    - course: B.E. in Artificial Intelligence (Honors), GPA 4.0/4.3
+      institution: Shanghai Jiao Tong University
       year: 2023
 
 # Skills
@@ -58,6 +58,16 @@ skills:
         description: ''
         percent: 90
         icon: chart-line
+        icon_pack: fas
+      - name: JAX
+        description: ''
+        percent: 75
+        icon: code
+        icon_pack: fas
+      - name: C++
+        description: ''
+        percent: 70
+        icon: code
         icon_pack: fas
       - name: SQL
         description: ''
@@ -112,10 +122,10 @@ social:
 highlight_name: true
 ---
 
-Hello! I'm Qingquan Bao, currently a graduate student specializing in robotics at the General Robotics, Automation, Sensing & Perception (GRASP) Lab, University of Pennsylvania. I'm on the lookout for internship opportunities in Machine Learning Engineering or Software Engineering. Please feel free to get in touch!
+Hello! I'm Qingquan Bao, a Software Engineer on the ML Motion Planning team at [Zoox](https://zoox.com/), working on Pretraining and Reinforcement Learning for L4 autonomous driving.
 
-My aspiration is to develop a versatile agent capable of assisting with both physical and intellectual tasks in our daily lives. I firmly believe that embodied AGI is crucial for advancing humanity liberty and democracy. So my current research interests focous on robot learning (esp. in mobile manipulation task), LLM in planning and RAG. Professionally, I am keen on implementing intelligent systems in cyberspace or ACTUAL robotic applications.!
+My aspiration is to develop a versatile agent capable of assisting with both physical and intellectual tasks in our daily lives. I firmly believe that embodied AGI is crucial for advancing humanity's liberty and democracy.
 
-Prior to joining Penn, I graduated cum laude (Zhiyuan Honor) in 2023 from Shanghai Jiao Tong University. During my enriching undergraduate years, I collaborated with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on topics of Vision Graph Matching, Trustworthy AI, and Neural Architecture Search. I also had the privilege of working with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) in the field of Embodied AI.
+I completed my M.S. in Robotics (GPA 4.0/4.0) at the [GRASP Lab](https://www.grasp.upenn.edu/), University of Pennsylvania in May 2025. Prior to Penn, I graduated *cum laude* (Zhiyuan Honor) in 2023 from Shanghai Jiao Tong University. During my undergraduate years, I collaborated with Professor [Junchi Yan](https://thinklab.sjtu.edu.cn/) on Vision Graph Matching and Trustworthy AI (CVPR 2022), and had the privilege of working with Professors [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), [Chuang Gan](https://people.csail.mit.edu/ganchuang/), [Leslie Pack Kaelbling](https://people.csail.mit.edu/lpk/), and [Tomás Lozano-Pérez](https://people.csail.mit.edu/tlp/) on Embodied AI at MIT.
 
 {style="text-align: justify;"}

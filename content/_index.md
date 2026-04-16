@@ -75,8 +75,34 @@ sections:
         #      * Analysing
         #      * Modelling
         #      * Deploying
-        - title: Research Assitant
-          company: 
+        - title: Software Engineer, ML Motion Planning
+          company: Zoox (L4 Robotaxi)
+          company_url: 'https://zoox.com/'
+          company_logo: zoox
+          location: Foster City, CA
+          date_start: '2025-06-01'
+          date_end: ''
+          description: |2-
+              Develop Pretraining and Reinforcement Learning to build long-horizon trajectory models for production.
+
+              * Designed autoregressive policy head for BC/RL planner; improved candidate selection by 2% and safety score by 0.8%
+              * Evaluated representation-learning (MAE-style pretraining) alignment with downstream RL objectives
+              * Traced JAX runtime regression (8× slowdown) and restored throughput via vectorized workaround
+              * Shipped virtual stopline for pickup/drop-off zones, eliminating looping incidents
+        - title: ML Engineer Intern, ML Motion Planning
+          company: Zoox
+          company_url: 'https://zoox.com/'
+          company_logo: zoox
+          location: Foster City, CA
+          date_start: '2024-05-01'
+          date_end: '2024-08-31'
+          description: |2-
+              Collaborated with Prof. [Nick Roy](https://aeroastro.mit.edu/people/nicholas-roy/) (MIT) on representation learning for autonomous driving.
+
+              * Built OOD detector using intermediate RL planner embeddings
+              * Introduced Masked Autoencoder (MAE) for scenario representations; boosted OOD AUC by +22.7%
+        - title: Research Assistant
+          company:
           company_url: ''
           company_logo: MIT_logo
           location: Cambridge, MA, US
@@ -253,7 +279,7 @@ sections:
       text: |-
         Feel free to contact me!
       # Contact (add or remove contact options as necessary)
-      email: qqbao@seas.upenn.edu
+      email: qqbao@yahoo.com
       phone: 206-666-0635
       #appointment_url: 'https://calendly.com'
       #address:
